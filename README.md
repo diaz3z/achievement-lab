@@ -1,8 +1,5 @@
-test reamdme file
-<<<<<<< Updated upstream
-=======
+test readme file
 
-updateing readme file again for pr-2
+updating readme file again for pr-2
 
-another update for pair extraordinair
->>>>>>> Stashed changes
+another update for pair extraordinaire
